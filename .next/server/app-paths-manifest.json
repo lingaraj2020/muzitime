@@ -1,0 +1,7 @@
+{
+  "/api/streams/route": "app/api/streams/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/page": "app/page.js",
+  "/creator/[creatorId]/page": "app/creator/[creatorId]/page.js"
+}
